@@ -1,1 +1,1 @@
-# teste-app-script
+{"foo":"bar","newbit":"mais isso"}
