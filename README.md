@@ -1,1 +1,1 @@
-batata frita
+batatinha frita
